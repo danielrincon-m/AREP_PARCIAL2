@@ -48,7 +48,7 @@ Como pudimos observar, la API funciona correctamente, e incluso retorna mensajes
 
 El video de demostración puede ser encontrado [aquí](vid/../demostracion.mp4).
 
-### Descarga del proyecto
+## Descarga del proyecto
 
 Clone el proyecto utilizando el siguiente comando:
 
