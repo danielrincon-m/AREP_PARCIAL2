@@ -48,7 +48,7 @@ Como pudimos observar, la API funciona correctamente, e incluso retorna mensajes
 
 El video de demostración puede ser encontrado [aquí](vid/../demostracion.mp4).
 
-## Descarga del proyecto
+## Descarga del proyecto 📥
 
 Clone el proyecto utilizando el siguiente comando:
 
@@ -74,7 +74,7 @@ mvn test
 
 ## Documentación del código fuente 🌎
 
-La documentación de los proyectos puede ser encontrada en las carpetas [LogService/docs](LogService/docs) y [RoundRobin/docs](RoundRobin/docs).
+La documentación de los proyectos puede ser encontrada en la carpeta [docs](docs).
 
 También puede ser generada con Maven, clonando el proyecto y ejecutando el siguiente comando:
 
