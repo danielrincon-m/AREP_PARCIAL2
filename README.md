@@ -3,12 +3,12 @@
 <!--[![danielrincon-m](https://circleci.com/gh/danielrincon-m/AREP_LAB4.svg?style=svg)](https://app.circleci.com/pipelines/github/danielrincon-m/AREP_LAB4) -->
 <!-- [![Heroku](img/heroku_long.png)](https://nanospring.herokuapp.com/nspapp/register) -->
 
-## Descripción 📦
+## Descripción 🧮
 
 Rn este parcial se desarrolló una calculadora matemática que por medio de una API, calcula las operaciones de ACOS(x) y ASIN(x), en donde x es un número en el rango [-1, 1] para ambos casos. A continuación veremos la implementación y el funcionamiento de la calculadora.
 
 
-### Implementación
+## Implementación 💻
 
 La implementación fué realizada en el lenguaje Java con un servidor Spark Java, el cual publica la API y se encarga de recibir y de procesar las peticiones, como respuesta, retorna un objeto en formato JSON, con la operación que se realizó, la entrada del usuario y la salida de la operación.
 
@@ -31,7 +31,7 @@ Para hacer funcionar el proyecto en AWS, navegaremos a la dirección IP del serv
 
 En nuestro caso, la dirección es: http://ec2-18-235-234-206.compute-1.amazonaws.com:8080/
 
-### Resultado
+## Resultado ✔️
 
 Gracias a que mapeamos el puerto de Spark Java al puerto público 8080, y modificamos las reglas del firewall de nuestra máquina para que este puerto sea accesible desde cualquier lugar, podemos ver la operación en las siguientes imágenes:
 
